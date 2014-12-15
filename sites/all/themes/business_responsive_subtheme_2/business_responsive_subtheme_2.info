@@ -1,0 +1,20 @@
+name = Business Responsive Subtheme 2
+description = This is a sub-theme of theme Business Responsive.
+core = 7.x
+base theme = business_responsive_theme
+
+stylesheets[all][] = style_sub.css
+
+regions[sidebar_first]  = First Sidebar
+regions[sidebar_second] = Second Sidebar
+regions[slideshow]      = Slideshow
+regions[front_welcome]  = Front Welcome
+regions[top_first]      = First top
+regions[top_second]     = Second top
+regions[top_third]      = Third top
+regions[content]        = Content
+regions[content_top]    = Content Top
+regions[footer]         = Footer
+regions[footer_first]   = First Bottom
+regions[footer_second]  = Second Bottom
+regions[footer_third]   = Third Bottom
